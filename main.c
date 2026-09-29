@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("HAPPY NATIONAL HOLIDAY\n");
+    printf("HAPPY NATIONAL DAY!n");
 }
